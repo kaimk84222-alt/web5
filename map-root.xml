@@ -65,4 +65,9 @@
     <loc>https://bavsmh.dpdns.org/map-extra12.xml</loc>
     <lastmod>2026-02-18</lastmod>
   </sitemap>
+
+  <sitemap>
+    <loc>https://bavsmh.dpdns.org/map-extra13.xml</loc>
+    <lastmod>2026-02-18</lastmod>
+  </sitemap>
 </sitemapindex>
